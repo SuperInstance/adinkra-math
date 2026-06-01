@@ -1,0 +1,6 @@
+*.o
+*.a
+examples/example_runner
+examples/*.svg
+tests/test_runner
+tests/test_runner_asan
